@@ -1,6 +1,6 @@
 {
   "name": "ai-cost-compare",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Compare cost of running prompts across models and providers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -3,6 +3,7 @@
 **Cross-model cost comparison for LLM API calls.**
 
 [![npm version](https://img.shields.io/npm/v/ai-cost-compare)](https://www.npmjs.com/package/ai-cost-compare)
+[![npm downloads](https://img.shields.io/npm/dt/ai-cost-compare.svg)](https://www.npmjs.com/package/ai-cost-compare)
 [![license](https://img.shields.io/npm/l/ai-cost-compare)](https://opensource.org/licenses/MIT)
 [![node](https://img.shields.io/node/v/ai-cost-compare)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue)](https://www.typescriptlang.org/)
