@@ -40,7 +40,7 @@ function calculateModelCost(
     outputCost,
     totalCost,
     contextWindow: pricing.contextWindow,
-    fitsContext: inputTokens <= pricing.contextWindow,
+    fitsContext: (inputTokens + outputTokens) <= pricing.contextWindow,
   };
 }
 
